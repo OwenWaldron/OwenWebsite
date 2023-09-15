@@ -1,0 +1,5 @@
+export const wave1 = require("./wave1.png")
+export const wave2 = require("./wave2.png")
+export const wave3 = require("./wave3.png")
+export const wave4 = require("./wave4.png")
+export const wave5 = require("./wave5.png")

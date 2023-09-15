@@ -1,0 +1,5 @@
+export const donut1 = require("./donut1.jpg")
+export const donut2 = require("./donut2.jpg")
+export const donut3 = require("./donut3.jpg")
+export const donut4 = require("./donut4.jpg")
+export const donut5 = require("./donut5.jpg")

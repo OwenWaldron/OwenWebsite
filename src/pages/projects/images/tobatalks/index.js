@@ -1,0 +1,6 @@
+export const toba1 = require("./toba1.jpg")
+export const toba2 = require("./toba2.jpg")
+export const toba3 = require("./toba3.jpg")
+export const toba4 = require("./toba4.jpg")
+export const toba5 = require("./toba5.jpg")
+export const toba6 = require("./toba6.jpg")
