@@ -5,7 +5,7 @@ const EDUS = [
         name: "Bachelors of Computer Science",
         facility: "University of Waterloo, Faculty of Mathematics",
         dates: "09/2022 - 06/2027",
-        description: "Candidate for a Bachelor's of Computer Science (Co-op) with a minor in Physics. Sample courses include Calculus 1 & 2, Linear Algebra, Elementary Algorithm Design and Data Abstraction."
+        description: "Candidate for a Bachelor's of Computer Science (Co-op) with a minor in Physics. Sample courses include Object Oriented Software Development, Calculus 1 through 3, Linear Algebra, Elementary Algorithm Design and Data Abstraction."
     }, { 
         name: "High School and IB Diplomas",
         facility: "Toronto French School",
@@ -16,6 +16,11 @@ const EDUS = [
 
 const JOBS = [
     { 
+        title: "Web Developper",
+        company: "North York Aquatic Club",
+        dates: "05/2023 - 08/2023",
+        description: "Invented and implemented frameworks for quantitative analysis of swim club performance. Automated data visualization and performance report generation for board use through a web app interface. Developed feature rich web app with React.js frontend and a Django backend on an AWS server."
+    }, { 
         title: "Competitive Swim Coach",
         company: "North York Aquatic Club",
         dates: "09/2021 - 06/2022",
