@@ -16,20 +16,25 @@ const EDUS = [
 
 const JOBS = [
     { 
+        title: "Course Marker",
+        company: "University of Waterloo, Faculty of Mathematics",
+        dates: "Sep 2023 - Present",
+        description: "Part time job as a course marker for first year course MATH135: Algebra for Honours Mathematics. I am part of a team that marks student’s weekly assignments."
+    }, { 
         title: "Web Developper",
         company: "North York Aquatic Club",
-        dates: "05/2023 - 08/2023",
+        dates: "May 2023 - Aug 2023",
         description: "Invented and implemented frameworks for quantitative analysis of swim club performance. Automated data visualization and performance report generation for board use through a web app interface. Developed feature rich web app with React.js frontend and a Django backend on an AWS server."
-    }, { 
-        title: "Competitive Swim Coach",
-        company: "North York Aquatic Club",
-        dates: "09/2021 - 06/2022",
-        description: "Coordinated competitive swimming groups involving competition registration, writing and executing practices, and communicating with parents. Engineered a web application using Django to compute data relating to club performance for the use of the club head coach."
     }, { 
         title: "Aquatics Instructor",
         company: "Toronto Athletic Camps",
-        dates: "07/2022",
+        dates: "July 2022",
         description: "Instructed swimmers ranging from first-time to competitive levels, adjusting to a new group and skill set each week. Cooperated with a team of instructors and coaches to manage over 300 campers."
+    }, { 
+        title: "Competitive Swim Coach",
+        company: "North York Aquatic Club",
+        dates: "Sep 2021 - June 2022",
+        description: "Coordinated competitive swimming groups involving competition registration, writing and executing practices, and communicating with parents. Engineered a web application using Django to compute data relating to club performance for the use of the club head coach."
     }
 ]
 

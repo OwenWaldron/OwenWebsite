@@ -120,7 +120,7 @@ const AboutMe = () => {
                                                 <div className="col">
                                                     <div className="row">
                                                         <div className="col-1"><i className="icon ion-social-linkedin icon"></i></div>
-                                                        <div className="col-9"><span><a href="https://www.linkedin.com/in/owaldron/">linkedin.com/in/owaldron/</a></span></div>
+                                                        <div className="col-9"><span><a href="https://www.linkedin.com/in/owaldron/" target="_blank" rel="noreferrer">linkedin.com/in/owaldron/</a></span></div>
                                                     </div>
                                                 </div>
                                             </div>
