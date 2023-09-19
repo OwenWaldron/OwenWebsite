@@ -4,12 +4,12 @@ const EDUS = [
     { 
         name: "Bachelors of Computer Science",
         facility: "University of Waterloo, Faculty of Mathematics",
-        dates: "09/2022 - 06/2027",
+        dates: "Sep 2022 - June 2027",
         description: "Candidate for a Bachelor's of Computer Science (Co-op) with a minor in Physics. Sample courses include Object Oriented Software Development, Calculus 1 through 3, Linear Algebra, Elementary Algorithm Design and Data Abstraction."
     }, { 
         name: "High School and IB Diplomas",
         facility: "Toronto French School",
-        dates: "09/2017 - 06/2022",
+        dates: "Sep 2017 - June 2022",
         description: "Advanced Bilingual International Baccalaureate Diploma recipient. Awards for greatest achievement in higher level mathematics, higher level physics, and computer science."
     },
 ]
