@@ -1,5 +1,4 @@
 .card-img-top {
-    height: 277.328px;
-    width: 416px;
+    height: calc(width * 277.328 /416)277.328px;
     object-fit: cover;
 }
