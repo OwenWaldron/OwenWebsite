@@ -31,7 +31,7 @@ const HomePage = () => {
                 <section className="portfolio-block call-to-action border-bottom">
                     <div className="container">
                         <div className="d-flex justify-content-center align-items-center content">
-                            <h3>Curious?</h3><a className="btn btn-outline-primary" role="button" href="{% url 'portfolio:projects' %}">See my projects</a>
+                            <h3>Curious?</h3><a className="btn btn-outline-primary" role="button" href="/projects">See my projects</a>
                         </div>
                     </div>
                 </section>
